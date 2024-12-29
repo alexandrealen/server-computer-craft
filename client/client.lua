@@ -18,5 +18,5 @@ local function saveFile(file, filename)
 end
 
 local file = getFile(4546)
-saveFile(file, "run.lua")
+saveFile(file, "run")
  
